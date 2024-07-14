@@ -4,6 +4,6 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 nginx:latest
 rockylinux:9
 busybox:1.36
-grefana/promtail:3.0.0
-grefana/loki:3.0.0
-grefana/grafana:3.0.0
+promtail:3.0.0
+loki:3.0.0
+grafana:3.0.0
