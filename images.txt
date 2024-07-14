@@ -5,4 +5,6 @@ nginx:latest
 rockylinux:9
 busybox:1.36
 grafana/loki:latest
-grafana/loki-agent:latest
+grafana/promtail:3.0.0
+grafana/loki:3.0.0
+grafana/grafana:11.0.0
